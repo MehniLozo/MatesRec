@@ -1,0 +1,1001 @@
+0,football,classical,photography,backpacking,video games,22,35.764433072675885,10.84075666747697
+1,basketball,rock,film,running,video games,24,34.74067797530926,10.69911718478783
+2,soccer,Rap,writing,kayaking,Tech,24,36.81386290416697,10.064182820362046
+3,gym,dance,cooking,running,robotics,24,35.76693318261071,10.84113693798821
+4,soccer,rock,graphic design,swimming,Nerd,23,35.76469606850862,10.831029670078468
+5,soccer,pop,painting,kayaking,Meditation,20,35.76769047104011,10.832138637973516
+6,tennis,electronic,sculpture,kayaking,Nerd,19,36.81219070866288,10.066716000532438
+7,soccer,classical,graphic design,swimming,Meditation,19,36.81219070866288,10.066716000532438
+8,boxing,Rap,film,camping,video games,19,36.785597579563394,10.185014300181754
+9,soccer,metal,painting,road trips,Tech,20,34.79861606395665,10.823167852730396
+10,soccer,rock,writing,backpacking,Studies,20,34.74175355801243,10.75199454701542
+11,soccer,pop,painting,road trips,Nerd,24,35.80342505199336,10.613795956841525
+12,cycling,metal,photography,road trips,Nerd,22,35.764433072675885,10.84075666747697
+13,tennis,metal,writing,road trips,Intellectual,22,35.8001395689749,10.61630367082559
+14,tennis,dance,cooking,camping,Tech,23,36.81114983397038,10.06831631942258
+15,running,classical,drawing,backpacking,Tech,20,35.764433072675885,10.84075666747697
+16,boxing,pop,film,running,Meditation,22,36.81114983397038,10.06831631942258
+17,tennis,electronic,film,walking,Nerd,24,36.785597579563394,10.185014300181754
+18,basketball,Rap,drawing,walking,robotics,23,35.764433072675885,10.84075666747697
+19,tennis,pop,sculpture,running,programming,21,36.785597579563394,10.185014300181754
+20,football,dance,sculpture,surfing,robotics,20,36.785597579563394,10.185014300181754
+21,running,classical,film,kayaking,Studies,23,34.74175355801243,10.75199454701542
+22,football,classical,photography,running,Tech,22,36.81219070866288,10.066716000532438
+23,football,electronic,drawing,surfing,Intellectual,20,35.76469606850862,10.831029670078468
+24,tennis,dance,painting,swimming,Nerd,20,34.74067797530926,10.69911718478783
+25,running,pop,sculpture,walking,Nerd,19,35.764433072675885,10.84075666747697
+26,basketball,rock,painting,swimming,programming,22,34.74067797530926,10.69911718478783
+27,cycling,pop,painting,road trips,video games,21,34.79861606395665,10.823167852730396
+28,tennis,metal,film,surfing,Intellectual,20,35.8001395689749,10.61630367082559
+29,boxing,classical,writing,camping,Intellectual,22,34.729348240087674,10.72633624147618
+30,tennis,Rap,drawing,running,Nerd,24,35.82129689193017,10.595614492571958
+31,cycling,Rap,film,kayaking,Studies,20,34.74175355801243,10.75199454701542
+32,running,jazz,graphic design,camping,robotics,24,35.76469606850862,10.831029670078468
+33,tennis,electronic,graphic design,walking,Studies,23,34.79861606395665,10.823167852730396
+34,tennis,metal,sculpture,kayaking,video games,21,34.79861606395665,10.823167852730396
+35,tennis,metal,drawing,running,Tech,23,35.7629810397376,10.83052541477322
+36,cycling,electronic,sculpture,swimming,Studies,22,35.7629810397376,10.83052541477322
+37,basketball,jazz,sculpture,walking,Tech,21,34.74175355801243,10.75199454701542
+38,running,metal,film,walking,Intellectual,22,35.80342505199336,10.613795956841525
+39,soccer,rock,sculpture,running,robotics,22,34.74175355801243,10.75199454701542
+40,tennis,electronic,photography,kayaking,Tech,19,34.79861606395665,10.823167852730396
+41,cycling,dance,graphic design,walking,Studies,23,36.81219070866288,10.066716000532438
+42,basketball,pop,painting,kayaking,Nerd,19,35.7629810397376,10.83052541477322
+43,soccer,electronic,sculpture,swimming,video games,21,36.815142235191104,10.061252340774432
+44,running,classical,film,kayaking,Intellectual,23,35.82129689193017,10.595614492571958
+45,boxing,Rap,photography,surfing,Studies,21,34.74175355801243,10.75199454701542
+46,tennis,dance,film,road trips,Tech,24,35.82129689193017,10.595614492571958
+47,running,electronic,painting,backpacking,Tech,23,36.785597579563394,10.185014300181754
+48,cycling,electronic,sculpture,backpacking,Studies,24,36.81219070866288,10.066716000532438
+49,cycling,pop,cooking,walking,robotics,23,35.80342505199336,10.613795956841525
+50,cycling,jazz,writing,swimming,Meditation,24,36.81114983397038,10.06831631942258
+51,boxing,jazz,sculpture,surfing,robotics,20,34.79861606395665,10.823167852730396
+52,boxing,dance,painting,swimming,video games,22,36.815142235191104,10.061252340774432
+53,football,dance,writing,camping,programming,19,36.81676557993202,10.061027035178723
+54,boxing,electronic,writing,walking,Nerd,24,35.764433072675885,10.84075666747697
+55,football,pop,graphic design,backpacking,Intellectual,23,35.76693318261071,10.84113693798821
+56,cycling,Rap,painting,kayaking,Nerd,23,35.829993171511525,10.590361854200784
+57,football,rock,photography,road trips,Tech,24,34.79861606395665,10.823167852730396
+58,boxing,classical,film,walking,video games,22,35.76469606850862,10.831029670078468
+59,cycling,classical,film,running,programming,20,36.81386290416697,10.064182820362046
+60,football,classical,film,surfing,Meditation,19,35.76693318261071,10.84113693798821
+61,running,dance,cooking,running,Tech,19,35.764433072675885,10.84075666747697
+62,soccer,metal,graphic design,swimming,Intellectual,22,36.84309787738344,10.197192562874283
+63,boxing,electronic,cooking,road trips,video games,22,34.729348240087674,10.72633624147618
+64,football,dance,cooking,kayaking,Meditation,24,35.76693318261071,10.84113693798821
+65,football,classical,drawing,surfing,Studies,19,35.76693318261071,10.84113693798821
+66,basketball,classical,film,camping,Tech,21,35.7629810397376,10.83052541477322
+67,cycling,classical,cooking,backpacking,robotics,21,36.81676557993202,10.061027035178723
+68,gym,electronic,writing,walking,Meditation,19,35.829993171511525,10.590361854200784
+69,running,jazz,drawing,backpacking,video games,20,36.84309787738344,10.197192562874283
+70,cycling,classical,photography,swimming,Intellectual,21,35.82129689193017,10.595614492571958
+71,boxing,jazz,film,running,programming,23,36.785597579563394,10.185014300181754
+72,tennis,dance,photography,backpacking,programming,22,35.8001395689749,10.61630367082559
+73,basketball,electronic,photography,surfing,Nerd,22,35.76769047104011,10.832138637973516
+74,soccer,Rap,cooking,backpacking,Tech,24,35.79886274215052,10.61743579240075
+75,soccer,pop,graphic design,swimming,Nerd,23,34.74175355801243,10.75199454701542
+76,football,rock,cooking,running,Studies,24,36.815142235191104,10.061252340774432
+77,cycling,Rap,graphic design,swimming,robotics,19,35.8001395689749,10.61630367082559
+78,boxing,electronic,graphic design,running,programming,22,35.79886274215052,10.61743579240075
+79,cycling,Rap,film,surfing,Meditation,22,35.76769047104011,10.832138637973516
+80,gym,classical,graphic design,swimming,robotics,23,34.79861606395665,10.823167852730396
+81,boxing,dance,photography,backpacking,Meditation,24,36.785597579563394,10.185014300181754
+82,soccer,dance,painting,road trips,Nerd,23,36.785597579563394,10.185014300181754
+83,cycling,jazz,photography,camping,programming,19,36.84309787738344,10.197192562874283
+84,cycling,jazz,writing,backpacking,Nerd,23,35.82129689193017,10.595614492571958
+85,tennis,dance,film,kayaking,Studies,20,36.81386290416697,10.064182820362046
+86,tennis,dance,photography,camping,Intellectual,23,34.74175355801243,10.75199454701542
+87,soccer,Rap,sculpture,camping,programming,23,36.81676557993202,10.061027035178723
+88,boxing,Rap,graphic design,walking,Nerd,22,36.81676557993202,10.061027035178723
+89,running,Rap,sculpture,kayaking,Tech,24,36.81676557993202,10.061027035178723
+90,cycling,classical,painting,road trips,Nerd,24,35.764433072675885,10.84075666747697
+91,gym,Rap,writing,backpacking,video games,23,35.8001395689749,10.61630367082559
+92,basketball,pop,cooking,surfing,video games,19,35.79886274215052,10.61743579240075
+93,soccer,electronic,writing,swimming,Nerd,22,35.82129689193017,10.595614492571958
+94,running,jazz,film,camping,Studies,19,34.79861606395665,10.823167852730396
+95,soccer,dance,sculpture,walking,Meditation,23,36.81386290416697,10.064182820362046
+96,running,electronic,drawing,kayaking,robotics,19,36.81386290416697,10.064182820362046
+97,basketball,classical,photography,kayaking,Studies,23,36.81219070866288,10.066716000532438
+98,boxing,electronic,painting,swimming,Intellectual,23,34.74067797530926,10.69911718478783
+99,football,rock,film,kayaking,Meditation,22,36.815142235191104,10.061252340774432
+100,boxing,jazz,painting,swimming,Intellectual,19,34.74175355801243,10.75199454701542
+101,basketball,classical,graphic design,camping,programming,22,34.74175355801243,10.75199454701542
+102,gym,metal,film,running,programming,21,36.84309787738344,10.197192562874283
+103,tennis,classical,writing,camping,Nerd,22,35.76693318261071,10.84113693798821
+104,gym,jazz,film,backpacking,video games,19,35.82129689193017,10.595614492571958
+105,boxing,electronic,graphic design,walking,Intellectual,20,34.74067797530926,10.69911718478783
+106,football,jazz,sculpture,swimming,video games,21,36.81114983397038,10.06831631942258
+107,cycling,rock,sculpture,camping,Studies,22,34.79861606395665,10.823167852730396
+108,tennis,pop,sculpture,walking,Meditation,23,36.81386290416697,10.064182820362046
+109,football,classical,photography,swimming,Nerd,21,36.84309787738344,10.197192562874283
+110,gym,dance,sculpture,walking,Nerd,23,36.785597579563394,10.185014300181754
+111,boxing,classical,cooking,road trips,video games,20,36.785597579563394,10.185014300181754
+112,boxing,metal,painting,walking,Studies,19,35.76769047104011,10.832138637973516
+113,running,pop,graphic design,backpacking,programming,22,35.76769047104011,10.832138637973516
+114,basketball,electronic,photography,surfing,programming,20,35.7629810397376,10.83052541477322
+115,tennis,rock,painting,backpacking,Nerd,22,36.81386290416697,10.064182820362046
+116,basketball,metal,graphic design,swimming,Studies,24,36.81114983397038,10.06831631942258
+117,soccer,classical,film,walking,programming,22,34.74175355801243,10.75199454701542
+118,basketball,electronic,photography,backpacking,Studies,20,35.79886274215052,10.61743579240075
+119,soccer,electronic,writing,camping,robotics,20,35.76693318261071,10.84113693798821
+120,boxing,pop,photography,backpacking,video games,20,35.8001395689749,10.61630367082559
+121,tennis,Rap,drawing,kayaking,video games,21,36.84309787738344,10.197192562874283
+122,running,dance,film,camping,Meditation,20,35.76693318261071,10.84113693798821
+123,basketball,classical,photography,surfing,robotics,23,34.79861606395665,10.823167852730396
+124,gym,jazz,drawing,surfing,Intellectual,21,36.84309787738344,10.197192562874283
+125,cycling,dance,graphic design,backpacking,Nerd,20,35.7629810397376,10.83052541477322
+126,soccer,classical,cooking,swimming,Tech,19,35.79886274215052,10.61743579240075
+127,football,pop,writing,camping,Nerd,22,35.76769047104011,10.832138637973516
+128,running,pop,film,camping,Studies,20,36.81114983397038,10.06831631942258
+129,cycling,Rap,painting,road trips,video games,24,36.84309787738344,10.197192562874283
+130,gym,Rap,graphic design,kayaking,Intellectual,21,35.76469606850862,10.831029670078468
+131,cycling,pop,film,backpacking,Nerd,24,35.76769047104011,10.832138637973516
+132,boxing,pop,photography,surfing,robotics,23,35.8001395689749,10.61630367082559
+133,tennis,metal,cooking,road trips,robotics,21,35.8001395689749,10.61630367082559
+134,running,pop,photography,road trips,video games,21,35.764433072675885,10.84075666747697
+135,tennis,rock,photography,backpacking,Studies,20,36.81386290416697,10.064182820362046
+136,tennis,jazz,sculpture,road trips,Intellectual,24,35.79886274215052,10.61743579240075
+137,soccer,Rap,photography,road trips,programming,22,35.764433072675885,10.84075666747697
+138,cycling,Rap,photography,walking,robotics,24,34.74175355801243,10.75199454701542
+139,boxing,dance,cooking,swimming,Meditation,24,34.74067797530926,10.69911718478783
+140,tennis,pop,graphic design,walking,video games,23,35.76693318261071,10.84113693798821
+141,cycling,classical,sculpture,surfing,video games,24,35.79886274215052,10.61743579240075
+142,cycling,dance,writing,swimming,video games,19,36.81386290416697,10.064182820362046
+143,boxing,Rap,film,running,Nerd,22,35.8001395689749,10.61630367082559
+144,soccer,Rap,writing,walking,programming,19,34.74067797530926,10.69911718478783
+145,cycling,Rap,graphic design,road trips,programming,21,36.81676557993202,10.061027035178723
+146,tennis,pop,film,backpacking,video games,19,35.76769047104011,10.832138637973516
+147,boxing,classical,sculpture,road trips,Tech,24,34.79861606395665,10.823167852730396
+148,football,electronic,drawing,road trips,programming,19,36.81219070866288,10.066716000532438
+149,soccer,dance,sculpture,road trips,Tech,20,35.76469606850862,10.831029670078468
+150,boxing,jazz,photography,running,video games,22,34.729348240087674,10.72633624147618
+151,football,jazz,sculpture,running,Studies,19,35.76693318261071,10.84113693798821
+152,soccer,jazz,painting,backpacking,Studies,20,35.76693318261071,10.84113693798821
+153,tennis,pop,graphic design,backpacking,Meditation,23,35.82129689193017,10.595614492571958
+154,cycling,rock,drawing,surfing,robotics,19,35.76469606850862,10.831029670078468
+155,soccer,Rap,graphic design,surfing,robotics,20,35.76693318261071,10.84113693798821
+156,basketball,metal,cooking,walking,robotics,20,34.79861606395665,10.823167852730396
+157,running,Rap,photography,surfing,Tech,22,36.81114983397038,10.06831631942258
+158,football,electronic,photography,road trips,video games,20,34.74067797530926,10.69911718478783
+159,basketball,pop,cooking,road trips,Studies,24,35.764433072675885,10.84075666747697
+160,football,classical,graphic design,running,robotics,24,36.81219070866288,10.066716000532438
+161,basketball,electronic,writing,road trips,Nerd,24,36.815142235191104,10.061252340774432
+162,tennis,rock,cooking,surfing,Meditation,21,35.76693318261071,10.84113693798821
+163,cycling,Rap,sculpture,surfing,Studies,20,36.81386290416697,10.064182820362046
+164,tennis,metal,graphic design,surfing,programming,20,35.8001395689749,10.61630367082559
+165,football,metal,drawing,backpacking,robotics,22,35.764433072675885,10.84075666747697
+166,tennis,metal,film,swimming,video games,19,35.76693318261071,10.84113693798821
+167,football,dance,cooking,surfing,Meditation,23,35.764433072675885,10.84075666747697
+168,tennis,pop,photography,road trips,Intellectual,21,35.829993171511525,10.590361854200784
+169,soccer,dance,cooking,surfing,programming,22,35.7629810397376,10.83052541477322
+170,boxing,rock,drawing,swimming,robotics,20,35.80342505199336,10.613795956841525
+171,running,pop,graphic design,road trips,Nerd,23,35.82129689193017,10.595614492571958
+172,gym,Rap,writing,kayaking,robotics,24,34.74175355801243,10.75199454701542
+173,running,metal,photography,backpacking,Tech,22,35.764433072675885,10.84075666747697
+174,running,jazz,painting,swimming,Nerd,23,35.7629810397376,10.83052541477322
+175,soccer,electronic,film,camping,programming,19,34.74067797530926,10.69911718478783
+176,soccer,metal,graphic design,camping,Tech,22,34.74175355801243,10.75199454701542
+177,football,jazz,film,surfing,Nerd,21,36.81386290416697,10.064182820362046
+178,gym,metal,cooking,road trips,Studies,21,35.8001395689749,10.61630367082559
+179,tennis,classical,sculpture,kayaking,Tech,24,36.815142235191104,10.061252340774432
+180,boxing,dance,writing,running,Meditation,23,35.764433072675885,10.84075666747697
+181,running,jazz,painting,walking,Tech,20,35.79886274215052,10.61743579240075
+182,basketball,metal,graphic design,camping,Studies,24,35.8001395689749,10.61630367082559
+183,gym,rock,drawing,running,Tech,23,34.79861606395665,10.823167852730396
+184,football,pop,drawing,road trips,video games,19,35.76693318261071,10.84113693798821
+185,basketball,jazz,drawing,surfing,video games,20,35.7629810397376,10.83052541477322
+186,boxing,dance,photography,swimming,Meditation,21,36.81114983397038,10.06831631942258
+187,tennis,rock,sculpture,running,video games,19,36.81676557993202,10.061027035178723
+188,tennis,electronic,film,surfing,Intellectual,21,36.81219070866288,10.066716000532438
+189,football,dance,sculpture,road trips,video games,20,35.76769047104011,10.832138637973516
+190,boxing,electronic,cooking,camping,video games,22,34.729348240087674,10.72633624147618
+191,football,dance,photography,running,Nerd,20,35.8001395689749,10.61630367082559
+192,cycling,classical,cooking,camping,Intellectual,24,36.81219070866288,10.066716000532438
+193,running,rock,film,swimming,video games,23,34.729348240087674,10.72633624147618
+194,cycling,pop,film,swimming,programming,20,36.84309787738344,10.197192562874283
+195,basketball,pop,film,kayaking,Studies,22,36.785597579563394,10.185014300181754
+196,boxing,Rap,painting,running,video games,20,35.7629810397376,10.83052541477322
+197,tennis,pop,writing,backpacking,programming,22,35.7629810397376,10.83052541477322
+198,tennis,metal,painting,kayaking,Studies,22,36.81219070866288,10.066716000532438
+199,gym,dance,cooking,running,programming,23,35.76469606850862,10.831029670078468
+200,running,jazz,sculpture,surfing,Nerd,20,35.76469606850862,10.831029670078468
+201,running,rock,graphic design,swimming,programming,19,36.81386290416697,10.064182820362046
+202,boxing,pop,film,camping,Tech,20,36.81676557993202,10.061027035178723
+203,boxing,electronic,photography,walking,Studies,20,35.76769047104011,10.832138637973516
+204,tennis,pop,sculpture,walking,Studies,23,35.76693318261071,10.84113693798821
+205,soccer,Rap,painting,swimming,Nerd,23,36.81676557993202,10.061027035178723
+206,cycling,jazz,photography,walking,Nerd,24,35.79886274215052,10.61743579240075
+207,tennis,electronic,photography,walking,programming,23,35.7629810397376,10.83052541477322
+208,running,Rap,painting,swimming,Tech,21,36.84309787738344,10.197192562874283
+209,boxing,rock,film,kayaking,Intellectual,24,36.81676557993202,10.061027035178723
+210,gym,dance,writing,walking,Nerd,19,35.82129689193017,10.595614492571958
+211,soccer,pop,painting,surfing,robotics,23,36.815142235191104,10.061252340774432
+212,football,electronic,painting,camping,Tech,23,35.829993171511525,10.590361854200784
+213,soccer,classical,sculpture,swimming,Meditation,19,35.82129689193017,10.595614492571958
+214,gym,rock,sculpture,kayaking,Studies,24,36.84309787738344,10.197192562874283
+215,football,pop,photography,walking,Meditation,24,34.74175355801243,10.75199454701542
+216,gym,electronic,sculpture,swimming,Intellectual,21,34.79861606395665,10.823167852730396
+217,boxing,metal,writing,walking,Nerd,24,34.729348240087674,10.72633624147618
+218,tennis,pop,painting,camping,video games,23,36.815142235191104,10.061252340774432
+219,football,electronic,drawing,camping,Tech,23,36.84309787738344,10.197192562874283
+220,running,pop,film,walking,programming,19,35.76469606850862,10.831029670078468
+221,running,Rap,painting,walking,Nerd,21,36.815142235191104,10.061252340774432
+222,basketball,classical,drawing,kayaking,Studies,22,35.8001395689749,10.61630367082559
+223,boxing,classical,film,swimming,Studies,19,35.76469606850862,10.831029670078468
+224,gym,rock,photography,running,Intellectual,23,35.76469606850862,10.831029670078468
+225,running,classical,film,surfing,programming,23,35.76469606850862,10.831029670078468
+226,cycling,jazz,drawing,running,Tech,21,36.81386290416697,10.064182820362046
+227,soccer,pop,sculpture,backpacking,programming,19,35.79886274215052,10.61743579240075
+228,gym,metal,painting,kayaking,Intellectual,23,35.80342505199336,10.613795956841525
+229,tennis,Rap,drawing,walking,Nerd,24,35.829993171511525,10.590361854200784
+230,running,pop,writing,running,video games,20,36.81386290416697,10.064182820362046
+231,gym,Rap,graphic design,kayaking,Intellectual,20,35.8001395689749,10.61630367082559
+232,soccer,electronic,photography,backpacking,Tech,23,36.785597579563394,10.185014300181754
+233,football,Rap,painting,running,Studies,23,35.79886274215052,10.61743579240075
+234,tennis,Rap,film,surfing,Nerd,22,34.729348240087674,10.72633624147618
+235,gym,pop,cooking,kayaking,Tech,24,34.74067797530926,10.69911718478783
+236,basketball,electronic,photography,running,Studies,22,34.79861606395665,10.823167852730396
+237,tennis,pop,sculpture,backpacking,programming,19,34.729348240087674,10.72633624147618
+238,cycling,dance,film,running,Nerd,19,36.81676557993202,10.061027035178723
+239,cycling,classical,photography,surfing,Nerd,22,35.82129689193017,10.595614492571958
+240,boxing,Rap,painting,backpacking,programming,24,35.76469606850862,10.831029670078468
+241,running,classical,cooking,walking,Nerd,19,35.82129689193017,10.595614492571958
+242,soccer,jazz,cooking,camping,video games,23,36.815142235191104,10.061252340774432
+243,tennis,pop,cooking,road trips,Tech,22,35.82129689193017,10.595614492571958
+244,boxing,rock,sculpture,running,programming,22,34.74067797530926,10.69911718478783
+245,football,Rap,painting,road trips,Tech,22,36.81219070866288,10.066716000532438
+246,soccer,pop,film,backpacking,Intellectual,22,35.79886274215052,10.61743579240075
+247,soccer,Rap,photography,kayaking,video games,20,34.74067797530926,10.69911718478783
+248,boxing,dance,drawing,road trips,programming,21,35.76693318261071,10.84113693798821
+249,football,jazz,graphic design,running,Intellectual,22,35.8001395689749,10.61630367082559
+250,gym,jazz,photography,kayaking,Intellectual,21,34.74175355801243,10.75199454701542
+251,tennis,Rap,photography,running,robotics,20,36.815142235191104,10.061252340774432
+252,football,classical,cooking,camping,Meditation,23,34.79861606395665,10.823167852730396
+253,boxing,pop,film,walking,video games,19,34.74175355801243,10.75199454701542
+254,tennis,electronic,sculpture,running,Intellectual,20,35.764433072675885,10.84075666747697
+255,gym,Rap,photography,swimming,Studies,19,34.79861606395665,10.823167852730396
+256,running,metal,writing,swimming,Tech,20,36.84309787738344,10.197192562874283
+257,tennis,jazz,drawing,camping,robotics,21,35.76469606850862,10.831029670078468
+258,basketball,metal,cooking,running,Tech,22,36.815142235191104,10.061252340774432
+259,football,dance,painting,surfing,Studies,19,36.81219070866288,10.066716000532438
+260,football,rock,sculpture,road trips,Tech,23,35.79886274215052,10.61743579240075
+261,gym,dance,painting,running,programming,24,35.82129689193017,10.595614492571958
+262,basketball,pop,film,swimming,Intellectual,24,35.82129689193017,10.595614492571958
+263,boxing,pop,sculpture,road trips,Nerd,22,36.81219070866288,10.066716000532438
+264,basketball,Rap,sculpture,swimming,robotics,21,35.8001395689749,10.61630367082559
+265,cycling,jazz,graphic design,surfing,robotics,19,36.785597579563394,10.185014300181754
+266,basketball,rock,painting,camping,robotics,23,36.81676557993202,10.061027035178723
+267,gym,classical,painting,surfing,video games,22,35.80342505199336,10.613795956841525
+268,running,pop,sculpture,kayaking,Nerd,22,34.74067797530926,10.69911718478783
+269,cycling,metal,photography,swimming,video games,21,35.7629810397376,10.83052541477322
+270,boxing,metal,sculpture,kayaking,programming,19,35.76469606850862,10.831029670078468
+271,football,jazz,graphic design,running,Nerd,23,35.82129689193017,10.595614492571958
+272,football,pop,graphic design,kayaking,robotics,22,36.785597579563394,10.185014300181754
+273,tennis,dance,graphic design,kayaking,Nerd,24,36.815142235191104,10.061252340774432
+274,football,rock,cooking,kayaking,Studies,23,35.764433072675885,10.84075666747697
+275,boxing,metal,painting,road trips,Tech,20,35.7629810397376,10.83052541477322
+276,basketball,dance,graphic design,swimming,robotics,19,36.81386290416697,10.064182820362046
+277,running,metal,cooking,road trips,Tech,20,35.80342505199336,10.613795956841525
+278,soccer,classical,sculpture,backpacking,Meditation,24,36.81676557993202,10.061027035178723
+279,cycling,pop,film,surfing,Nerd,23,36.785597579563394,10.185014300181754
+280,basketball,rock,graphic design,kayaking,robotics,21,36.815142235191104,10.061252340774432
+281,basketball,jazz,film,surfing,Intellectual,19,34.729348240087674,10.72633624147618
+282,soccer,rock,drawing,swimming,Tech,20,35.80342505199336,10.613795956841525
+283,football,rock,sculpture,surfing,Meditation,19,36.81676557993202,10.061027035178723
+284,boxing,pop,photography,camping,video games,23,36.81114983397038,10.06831631942258
+285,tennis,rock,drawing,kayaking,programming,20,36.785597579563394,10.185014300181754
+286,football,pop,cooking,running,Studies,23,35.76469606850862,10.831029670078468
+287,football,jazz,writing,road trips,Intellectual,22,34.729348240087674,10.72633624147618
+288,football,electronic,film,camping,Tech,24,34.729348240087674,10.72633624147618
+289,basketball,dance,sculpture,backpacking,video games,23,35.80342505199336,10.613795956841525
+290,basketball,rock,drawing,backpacking,Intellectual,21,34.79861606395665,10.823167852730396
+291,boxing,metal,writing,swimming,Nerd,19,35.76469606850862,10.831029670078468
+292,football,Rap,writing,running,video games,21,36.81386290416697,10.064182820362046
+293,cycling,rock,sculpture,backpacking,Nerd,20,36.785597579563394,10.185014300181754
+294,running,metal,drawing,walking,Tech,20,34.74067797530926,10.69911718478783
+295,boxing,metal,cooking,running,Studies,24,35.82129689193017,10.595614492571958
+296,cycling,metal,writing,kayaking,Nerd,19,36.84309787738344,10.197192562874283
+297,basketball,dance,film,kayaking,video games,20,35.76693318261071,10.84113693798821
+298,gym,rock,cooking,swimming,Tech,19,36.815142235191104,10.061252340774432
+299,cycling,dance,cooking,road trips,video games,20,34.79861606395665,10.823167852730396
+300,basketball,Rap,painting,running,Studies,24,35.76769047104011,10.832138637973516
+301,tennis,metal,writing,kayaking,programming,23,35.7629810397376,10.83052541477322
+302,running,electronic,photography,backpacking,Studies,24,35.79886274215052,10.61743579240075
+303,football,metal,graphic design,surfing,robotics,23,36.81219070866288,10.066716000532438
+304,basketball,jazz,drawing,backpacking,Tech,20,36.81676557993202,10.061027035178723
+305,running,classical,film,kayaking,Studies,23,36.785597579563394,10.185014300181754
+306,tennis,dance,sculpture,camping,Tech,23,36.81386290416697,10.064182820362046
+307,running,rock,drawing,camping,Intellectual,19,35.79886274215052,10.61743579240075
+308,soccer,dance,drawing,walking,robotics,22,34.74067797530926,10.69911718478783
+309,soccer,pop,graphic design,backpacking,Tech,19,36.81114983397038,10.06831631942258
+310,football,Rap,painting,camping,Meditation,24,34.74067797530926,10.69911718478783
+311,gym,dance,cooking,road trips,robotics,22,34.79861606395665,10.823167852730396
+312,running,rock,drawing,camping,robotics,23,34.79861606395665,10.823167852730396
+313,football,dance,sculpture,swimming,robotics,22,35.764433072675885,10.84075666747697
+314,basketball,classical,painting,swimming,Nerd,20,36.785597579563394,10.185014300181754
+315,tennis,Rap,drawing,road trips,Tech,19,35.76469606850862,10.831029670078468
+316,basketball,jazz,film,swimming,Studies,24,35.76469606850862,10.831029670078468
+317,tennis,pop,photography,road trips,robotics,24,35.829993171511525,10.590361854200784
+318,football,pop,drawing,walking,programming,23,34.729348240087674,10.72633624147618
+319,cycling,jazz,sculpture,swimming,Intellectual,23,36.81219070866288,10.066716000532438
+320,gym,electronic,photography,walking,Nerd,21,35.76469606850862,10.831029670078468
+321,running,metal,graphic design,running,Intellectual,24,35.80342505199336,10.613795956841525
+322,basketball,pop,cooking,running,Intellectual,19,36.84309787738344,10.197192562874283
+323,boxing,pop,cooking,road trips,Nerd,21,36.815142235191104,10.061252340774432
+324,gym,electronic,sculpture,swimming,Nerd,20,35.79886274215052,10.61743579240075
+325,cycling,dance,sculpture,running,Tech,21,35.79886274215052,10.61743579240075
+326,boxing,classical,photography,running,programming,21,35.8001395689749,10.61630367082559
+327,soccer,jazz,sculpture,road trips,Meditation,21,35.76469606850862,10.831029670078468
+328,gym,jazz,writing,walking,programming,23,34.729348240087674,10.72633624147618
+329,basketball,jazz,film,swimming,Meditation,19,36.815142235191104,10.061252340774432
+330,boxing,classical,cooking,swimming,Meditation,21,36.81676557993202,10.061027035178723
+331,cycling,rock,graphic design,running,programming,21,36.815142235191104,10.061252340774432
+332,gym,rock,sculpture,road trips,video games,24,35.76469606850862,10.831029670078468
+333,football,dance,film,camping,programming,22,35.764433072675885,10.84075666747697
+334,basketball,Rap,photography,running,robotics,19,34.79861606395665,10.823167852730396
+335,soccer,Rap,cooking,camping,Studies,23,36.81386290416697,10.064182820362046
+336,soccer,rock,photography,road trips,Intellectual,23,35.8001395689749,10.61630367082559
+337,cycling,rock,cooking,road trips,Studies,23,36.81219070866288,10.066716000532438
+338,tennis,Rap,painting,road trips,programming,24,36.815142235191104,10.061252340774432
+339,soccer,rock,drawing,surfing,video games,22,34.74067797530926,10.69911718478783
+340,running,rock,writing,kayaking,robotics,21,34.74175355801243,10.75199454701542
+341,football,dance,sculpture,camping,Studies,23,35.8001395689749,10.61630367082559
+342,football,classical,painting,swimming,Tech,22,35.80342505199336,10.613795956841525
+343,boxing,jazz,graphic design,road trips,Tech,22,35.76769047104011,10.832138637973516
+344,basketball,Rap,cooking,walking,Tech,24,35.8001395689749,10.61630367082559
+345,boxing,Rap,painting,running,Tech,21,34.74067797530926,10.69911718478783
+346,running,jazz,drawing,kayaking,Meditation,20,35.82129689193017,10.595614492571958
+347,cycling,rock,film,running,Studies,22,35.7629810397376,10.83052541477322
+348,running,classical,cooking,walking,Nerd,21,36.785597579563394,10.185014300181754
+349,basketball,pop,drawing,camping,Intellectual,22,36.81114983397038,10.06831631942258
+350,soccer,dance,writing,swimming,Studies,19,35.82129689193017,10.595614492571958
+351,football,electronic,film,camping,Studies,19,36.81114983397038,10.06831631942258
+352,running,Rap,film,walking,Nerd,22,35.76769047104011,10.832138637973516
+353,tennis,classical,film,backpacking,Studies,21,36.81676557993202,10.061027035178723
+354,boxing,rock,photography,camping,programming,22,36.81114983397038,10.06831631942258
+355,tennis,metal,writing,kayaking,Nerd,23,34.74175355801243,10.75199454701542
+356,tennis,jazz,film,surfing,Meditation,23,35.8001395689749,10.61630367082559
+357,soccer,metal,painting,running,Tech,19,35.79886274215052,10.61743579240075
+358,running,metal,cooking,running,Intellectual,19,35.76469606850862,10.831029670078468
+359,basketball,dance,drawing,road trips,video games,22,35.8001395689749,10.61630367082559
+360,gym,rock,drawing,walking,robotics,23,35.82129689193017,10.595614492571958
+361,boxing,rock,writing,running,Meditation,22,35.76769047104011,10.832138637973516
+362,football,classical,drawing,road trips,Tech,24,36.785597579563394,10.185014300181754
+363,cycling,Rap,painting,road trips,Intellectual,22,36.785597579563394,10.185014300181754
+364,basketball,pop,painting,camping,programming,22,35.8001395689749,10.61630367082559
+365,boxing,jazz,painting,kayaking,Tech,23,36.84309787738344,10.197192562874283
+366,gym,dance,writing,road trips,programming,24,36.81219070866288,10.066716000532438
+367,basketball,classical,cooking,backpacking,video games,22,36.815142235191104,10.061252340774432
+368,basketball,rock,sculpture,backpacking,Studies,20,34.79861606395665,10.823167852730396
+369,basketball,rock,painting,swimming,Intellectual,21,35.82129689193017,10.595614492571958
+370,boxing,jazz,cooking,walking,Intellectual,20,35.82129689193017,10.595614492571958
+371,running,Rap,writing,surfing,Meditation,21,36.81114983397038,10.06831631942258
+372,basketball,dance,film,surfing,robotics,23,35.76469606850862,10.831029670078468
+373,boxing,metal,sculpture,kayaking,Tech,22,35.7629810397376,10.83052541477322
+374,boxing,pop,film,kayaking,Tech,24,35.76769047104011,10.832138637973516
+375,tennis,electronic,painting,swimming,robotics,24,36.815142235191104,10.061252340774432
+376,basketball,jazz,painting,backpacking,robotics,23,36.81386290416697,10.064182820362046
+377,boxing,dance,film,road trips,Nerd,24,36.81676557993202,10.061027035178723
+378,boxing,classical,photography,surfing,Meditation,22,35.8001395689749,10.61630367082559
+379,basketball,dance,graphic design,kayaking,Intellectual,20,35.829993171511525,10.590361854200784
+380,football,classical,sculpture,surfing,video games,24,34.74067797530926,10.69911718478783
+381,cycling,jazz,painting,running,Intellectual,22,34.79861606395665,10.823167852730396
+382,tennis,Rap,drawing,running,Intellectual,23,35.76769047104011,10.832138637973516
+383,football,Rap,cooking,kayaking,Studies,21,36.815142235191104,10.061252340774432
+384,boxing,metal,cooking,walking,Meditation,24,36.81386290416697,10.064182820362046
+385,football,rock,photography,backpacking,robotics,24,36.84309787738344,10.197192562874283
+386,football,dance,painting,backpacking,Nerd,22,34.729348240087674,10.72633624147618
+387,basketball,jazz,drawing,surfing,Intellectual,21,35.764433072675885,10.84075666747697
+388,gym,metal,film,kayaking,programming,20,35.829993171511525,10.590361854200784
+389,tennis,dance,film,road trips,Meditation,24,35.7629810397376,10.83052541477322
+390,tennis,Rap,writing,backpacking,Intellectual,19,35.76469606850862,10.831029670078468
+391,boxing,dance,painting,walking,Intellectual,23,36.81219070866288,10.066716000532438
+392,basketball,rock,cooking,camping,programming,19,34.79861606395665,10.823167852730396
+393,football,classical,sculpture,swimming,programming,21,35.8001395689749,10.61630367082559
+394,basketball,classical,graphic design,running,programming,21,35.76769047104011,10.832138637973516
+395,tennis,dance,sculpture,swimming,Intellectual,19,35.76693318261071,10.84113693798821
+396,cycling,classical,film,road trips,robotics,20,36.785597579563394,10.185014300181754
+397,tennis,electronic,graphic design,road trips,Nerd,20,35.80342505199336,10.613795956841525
+398,boxing,dance,painting,swimming,video games,22,35.76469606850862,10.831029670078468
+399,boxing,rock,painting,walking,video games,22,34.74175355801243,10.75199454701542
+400,cycling,metal,drawing,backpacking,Intellectual,24,34.74175355801243,10.75199454701542
+401,basketball,dance,film,camping,Nerd,24,35.764433072675885,10.84075666747697
+402,soccer,metal,painting,running,Tech,19,34.79861606395665,10.823167852730396
+403,football,dance,photography,road trips,video games,20,34.74067797530926,10.69911718478783
+404,basketball,classical,sculpture,walking,Meditation,19,35.76769047104011,10.832138637973516
+405,boxing,Rap,sculpture,walking,Studies,23,35.80342505199336,10.613795956841525
+406,cycling,dance,painting,road trips,Studies,23,35.79886274215052,10.61743579240075
+407,soccer,dance,sculpture,road trips,programming,20,36.84309787738344,10.197192562874283
+408,boxing,jazz,sculpture,walking,programming,19,34.74175355801243,10.75199454701542
+409,running,metal,film,surfing,Studies,24,36.81219070866288,10.066716000532438
+410,boxing,dance,graphic design,surfing,Studies,23,35.764433072675885,10.84075666747697
+411,football,electronic,sculpture,kayaking,robotics,20,35.76469606850862,10.831029670078468
+412,gym,classical,cooking,road trips,video games,21,35.76693318261071,10.84113693798821
+413,running,rock,photography,walking,video games,20,35.80342505199336,10.613795956841525
+414,soccer,electronic,cooking,swimming,video games,24,36.815142235191104,10.061252340774432
+415,soccer,electronic,sculpture,walking,programming,19,35.8001395689749,10.61630367082559
+416,running,metal,painting,camping,Studies,19,34.729348240087674,10.72633624147618
+417,cycling,metal,photography,walking,Tech,19,36.81676557993202,10.061027035178723
+418,gym,classical,drawing,road trips,Intellectual,24,35.8001395689749,10.61630367082559
+419,soccer,classical,sculpture,walking,Meditation,20,34.74175355801243,10.75199454701542
+420,running,Rap,photography,swimming,Nerd,23,36.785597579563394,10.185014300181754
+421,boxing,classical,graphic design,road trips,Meditation,22,36.81114983397038,10.06831631942258
+422,gym,Rap,photography,walking,robotics,23,36.81219070866288,10.066716000532438
+423,football,dance,cooking,camping,Nerd,22,35.829993171511525,10.590361854200784
+424,cycling,jazz,photography,walking,Meditation,23,34.74067797530926,10.69911718478783
+425,football,Rap,writing,running,Meditation,19,36.81219070866288,10.066716000532438
+426,boxing,pop,sculpture,camping,video games,21,34.74067797530926,10.69911718478783
+427,boxing,Rap,graphic design,backpacking,robotics,22,36.815142235191104,10.061252340774432
+428,running,dance,drawing,backpacking,Meditation,19,36.81114983397038,10.06831631942258
+429,gym,electronic,drawing,backpacking,Intellectual,23,35.8001395689749,10.61630367082559
+430,football,electronic,painting,kayaking,robotics,20,35.8001395689749,10.61630367082559
+431,tennis,electronic,painting,road trips,programming,23,36.81386290416697,10.064182820362046
+432,running,metal,graphic design,surfing,Tech,21,35.76769047104011,10.832138637973516
+433,boxing,metal,writing,road trips,Studies,23,36.815142235191104,10.061252340774432
+434,boxing,classical,painting,camping,Tech,24,36.84309787738344,10.197192562874283
+435,cycling,metal,sculpture,walking,Intellectual,22,35.76693318261071,10.84113693798821
+436,basketball,pop,cooking,walking,programming,23,36.81676557993202,10.061027035178723
+437,football,electronic,painting,kayaking,Studies,22,35.82129689193017,10.595614492571958
+438,football,electronic,photography,walking,robotics,20,35.82129689193017,10.595614492571958
+439,football,metal,photography,swimming,video games,23,35.764433072675885,10.84075666747697
+440,basketball,Rap,drawing,walking,programming,23,35.76693318261071,10.84113693798821
+441,football,electronic,cooking,running,programming,20,36.81386290416697,10.064182820362046
+442,gym,metal,writing,camping,robotics,24,36.785597579563394,10.185014300181754
+443,soccer,rock,drawing,road trips,Studies,19,35.829993171511525,10.590361854200784
+444,basketball,Rap,cooking,running,Tech,22,36.81114983397038,10.06831631942258
+445,boxing,dance,photography,backpacking,video games,21,36.81676557993202,10.061027035178723
+446,football,metal,graphic design,kayaking,Intellectual,23,36.81386290416697,10.064182820362046
+447,gym,classical,writing,surfing,Nerd,22,36.81219070866288,10.066716000532438
+448,football,classical,cooking,backpacking,Studies,21,34.729348240087674,10.72633624147618
+449,running,Rap,drawing,swimming,video games,22,35.80342505199336,10.613795956841525
+450,running,dance,writing,camping,Nerd,19,36.81386290416697,10.064182820362046
+451,cycling,dance,graphic design,running,Nerd,24,35.76769047104011,10.832138637973516
+452,football,dance,drawing,kayaking,Studies,24,34.74067797530926,10.69911718478783
+453,tennis,rock,drawing,backpacking,Meditation,24,34.74067797530926,10.69911718478783
+454,basketball,electronic,photography,running,Intellectual,22,36.81386290416697,10.064182820362046
+455,boxing,rock,sculpture,swimming,programming,21,36.81386290416697,10.064182820362046
+456,soccer,metal,photography,road trips,Tech,20,36.815142235191104,10.061252340774432
+457,tennis,metal,film,running,robotics,22,35.82129689193017,10.595614492571958
+458,cycling,classical,cooking,running,Studies,23,35.76469606850862,10.831029670078468
+459,football,dance,film,kayaking,video games,22,35.80342505199336,10.613795956841525
+460,basketball,metal,photography,walking,programming,21,36.81114983397038,10.06831631942258
+461,running,classical,sculpture,swimming,Studies,21,36.81219070866288,10.066716000532438
+462,running,dance,sculpture,camping,Tech,20,35.82129689193017,10.595614492571958
+463,soccer,jazz,drawing,swimming,Studies,21,36.785597579563394,10.185014300181754
+464,football,electronic,film,surfing,Intellectual,23,36.785597579563394,10.185014300181754
+465,boxing,classical,painting,kayaking,Nerd,24,36.81386290416697,10.064182820362046
+466,gym,Rap,writing,camping,robotics,24,35.76693318261071,10.84113693798821
+467,running,dance,sculpture,camping,Intellectual,19,36.785597579563394,10.185014300181754
+468,basketball,metal,writing,surfing,programming,22,35.76693318261071,10.84113693798821
+469,running,pop,painting,backpacking,Studies,22,36.785597579563394,10.185014300181754
+470,football,classical,writing,backpacking,Nerd,22,36.815142235191104,10.061252340774432
+471,tennis,jazz,painting,walking,Intellectual,20,35.7629810397376,10.83052541477322
+472,tennis,metal,photography,camping,video games,19,36.81219070866288,10.066716000532438
+473,gym,rock,film,road trips,video games,20,35.79886274215052,10.61743579240075
+474,boxing,jazz,writing,road trips,Studies,20,36.815142235191104,10.061252340774432
+475,football,electronic,graphic design,kayaking,Studies,23,35.764433072675885,10.84075666747697
+476,cycling,classical,painting,walking,Intellectual,24,36.81219070866288,10.066716000532438
+477,soccer,electronic,cooking,walking,Intellectual,19,35.829993171511525,10.590361854200784
+478,tennis,jazz,writing,running,Tech,22,35.76769047104011,10.832138637973516
+479,boxing,pop,photography,surfing,programming,19,36.81219070866288,10.066716000532438
+480,boxing,jazz,film,walking,Meditation,24,36.84309787738344,10.197192562874283
+481,football,metal,painting,swimming,Intellectual,21,35.764433072675885,10.84075666747697
+482,soccer,metal,drawing,camping,Tech,24,36.84309787738344,10.197192562874283
+483,running,Rap,film,backpacking,robotics,23,36.81386290416697,10.064182820362046
+484,soccer,jazz,cooking,road trips,Studies,22,36.785597579563394,10.185014300181754
+485,tennis,pop,cooking,swimming,video games,23,34.74067797530926,10.69911718478783
+486,gym,jazz,photography,backpacking,Nerd,21,34.729348240087674,10.72633624147618
+487,basketball,metal,photography,backpacking,Studies,24,36.81114983397038,10.06831631942258
+488,soccer,electronic,writing,backpacking,programming,20,35.82129689193017,10.595614492571958
+489,tennis,dance,film,running,Tech,19,36.81676557993202,10.061027035178723
+490,boxing,Rap,painting,surfing,Tech,24,36.81676557993202,10.061027035178723
+491,football,metal,writing,backpacking,Nerd,20,36.81386290416697,10.064182820362046
+492,boxing,pop,painting,backpacking,robotics,21,34.79861606395665,10.823167852730396
+493,cycling,Rap,cooking,backpacking,Intellectual,24,36.815142235191104,10.061252340774432
+494,football,pop,sculpture,running,Studies,20,35.8001395689749,10.61630367082559
+495,cycling,Rap,film,kayaking,Intellectual,22,36.785597579563394,10.185014300181754
+496,basketball,metal,film,backpacking,Meditation,24,36.785597579563394,10.185014300181754
+497,football,electronic,writing,surfing,Meditation,19,36.81114983397038,10.06831631942258
+498,football,jazz,sculpture,kayaking,Intellectual,21,36.81386290416697,10.064182820362046
+499,soccer,dance,film,kayaking,programming,24,36.785597579563394,10.185014300181754
+500,running,electronic,film,surfing,robotics,21,35.76469606850862,10.831029670078468
+501,football,Rap,graphic design,walking,Tech,21,35.80342505199336,10.613795956841525
+502,tennis,electronic,sculpture,kayaking,Tech,24,36.815142235191104,10.061252340774432
+503,boxing,dance,writing,surfing,Tech,22,36.81219070866288,10.066716000532438
+504,cycling,rock,cooking,running,video games,21,35.7629810397376,10.83052541477322
+505,gym,metal,sculpture,road trips,Studies,20,35.79886274215052,10.61743579240075
+506,tennis,jazz,photography,kayaking,Meditation,21,35.764433072675885,10.84075666747697
+507,gym,classical,photography,kayaking,robotics,22,35.829993171511525,10.590361854200784
+508,running,classical,sculpture,surfing,Meditation,22,36.81386290416697,10.064182820362046
+509,soccer,rock,cooking,swimming,video games,24,35.82129689193017,10.595614492571958
+510,football,classical,sculpture,surfing,Studies,23,36.81114983397038,10.06831631942258
+511,cycling,rock,film,camping,Nerd,24,35.76769047104011,10.832138637973516
+512,basketball,pop,writing,road trips,programming,22,35.80342505199336,10.613795956841525
+513,cycling,Rap,writing,kayaking,Intellectual,22,35.829993171511525,10.590361854200784
+514,football,electronic,painting,swimming,Nerd,24,34.79861606395665,10.823167852730396
+515,basketball,classical,cooking,road trips,video games,21,34.74175355801243,10.75199454701542
+516,soccer,Rap,painting,walking,Nerd,20,34.729348240087674,10.72633624147618
+517,running,electronic,sculpture,running,Studies,21,34.729348240087674,10.72633624147618
+518,soccer,electronic,painting,walking,Studies,23,35.80342505199336,10.613795956841525
+519,football,rock,sculpture,kayaking,Tech,23,34.729348240087674,10.72633624147618
+520,running,classical,writing,camping,Meditation,21,36.81386290416697,10.064182820362046
+521,football,electronic,graphic design,backpacking,robotics,24,36.81219070866288,10.066716000532438
+522,boxing,classical,sculpture,kayaking,robotics,20,36.84309787738344,10.197192562874283
+523,football,classical,sculpture,camping,Intellectual,20,34.74175355801243,10.75199454701542
+524,basketball,electronic,painting,camping,robotics,21,35.764433072675885,10.84075666747697
+525,boxing,classical,drawing,camping,Meditation,22,36.81386290416697,10.064182820362046
+526,soccer,metal,photography,camping,Intellectual,21,35.76469606850862,10.831029670078468
+527,boxing,rock,cooking,backpacking,video games,22,35.8001395689749,10.61630367082559
+528,tennis,rock,photography,surfing,robotics,24,35.764433072675885,10.84075666747697
+529,boxing,metal,graphic design,running,video games,20,35.82129689193017,10.595614492571958
+530,boxing,dance,writing,surfing,Intellectual,21,35.80342505199336,10.613795956841525
+531,soccer,pop,painting,backpacking,robotics,19,35.8001395689749,10.61630367082559
+532,gym,rock,writing,surfing,Tech,20,35.80342505199336,10.613795956841525
+533,boxing,pop,photography,backpacking,Studies,23,35.79886274215052,10.61743579240075
+534,basketball,electronic,graphic design,running,Tech,20,36.84309787738344,10.197192562874283
+535,soccer,classical,film,running,Meditation,21,36.84309787738344,10.197192562874283
+536,gym,jazz,photography,running,video games,21,36.815142235191104,10.061252340774432
+537,tennis,rock,sculpture,road trips,video games,23,36.81219070866288,10.066716000532438
+538,basketball,electronic,photography,camping,Tech,23,35.76693318261071,10.84113693798821
+539,boxing,pop,drawing,swimming,Intellectual,19,35.82129689193017,10.595614492571958
+540,football,rock,film,camping,programming,22,36.81114983397038,10.06831631942258
+541,running,jazz,film,camping,Tech,23,36.81676557993202,10.061027035178723
+542,basketball,classical,painting,walking,programming,21,36.81386290416697,10.064182820362046
+543,running,dance,sculpture,camping,robotics,19,35.76769047104011,10.832138637973516
+544,gym,classical,cooking,backpacking,Meditation,19,35.7629810397376,10.83052541477322
+545,basketball,dance,graphic design,road trips,Meditation,23,36.785597579563394,10.185014300181754
+546,running,metal,cooking,road trips,Nerd,21,36.81676557993202,10.061027035178723
+547,cycling,rock,painting,swimming,Nerd,20,35.76469606850862,10.831029670078468
+548,tennis,classical,photography,running,Nerd,24,35.8001395689749,10.61630367082559
+549,soccer,dance,film,running,robotics,24,35.7629810397376,10.83052541477322
+550,boxing,Rap,writing,backpacking,video games,21,34.79861606395665,10.823167852730396
+551,basketball,jazz,photography,backpacking,robotics,21,36.815142235191104,10.061252340774432
+552,boxing,dance,sculpture,running,Tech,21,34.79861606395665,10.823167852730396
+553,boxing,rock,sculpture,camping,Meditation,20,36.81386290416697,10.064182820362046
+554,soccer,rock,painting,walking,video games,20,35.76469606850862,10.831029670078468
+555,boxing,pop,sculpture,swimming,programming,21,35.829993171511525,10.590361854200784
+556,running,rock,graphic design,surfing,Tech,19,35.8001395689749,10.61630367082559
+557,tennis,Rap,sculpture,surfing,programming,24,35.76769047104011,10.832138637973516
+558,tennis,metal,painting,camping,programming,24,35.76693318261071,10.84113693798821
+559,running,rock,sculpture,walking,Tech,20,36.81114983397038,10.06831631942258
+560,football,metal,painting,backpacking,Nerd,22,36.815142235191104,10.061252340774432
+561,running,electronic,drawing,kayaking,Studies,23,36.785597579563394,10.185014300181754
+562,basketball,Rap,photography,surfing,Meditation,20,34.74067797530926,10.69911718478783
+563,running,classical,painting,backpacking,video games,22,36.81676557993202,10.061027035178723
+564,cycling,dance,film,running,programming,19,35.76469606850862,10.831029670078468
+565,tennis,Rap,photography,road trips,Studies,19,36.81386290416697,10.064182820362046
+566,cycling,rock,graphic design,swimming,Intellectual,23,35.80342505199336,10.613795956841525
+567,basketball,rock,sculpture,camping,Nerd,24,36.785597579563394,10.185014300181754
+568,soccer,dance,graphic design,swimming,video games,21,35.764433072675885,10.84075666747697
+569,boxing,metal,writing,road trips,video games,19,36.815142235191104,10.061252340774432
+570,boxing,classical,graphic design,road trips,programming,20,36.81676557993202,10.061027035178723
+571,cycling,rock,writing,walking,Tech,24,35.76693318261071,10.84113693798821
+572,boxing,electronic,film,kayaking,Tech,19,35.7629810397376,10.83052541477322
+573,cycling,electronic,photography,surfing,Intellectual,23,35.80342505199336,10.613795956841525
+574,football,metal,photography,camping,Intellectual,21,35.82129689193017,10.595614492571958
+575,running,metal,graphic design,swimming,Studies,20,36.81219070866288,10.066716000532438
+576,running,pop,sculpture,backpacking,Nerd,19,35.82129689193017,10.595614492571958
+577,boxing,electronic,writing,swimming,Nerd,24,35.76769047104011,10.832138637973516
+578,boxing,jazz,painting,kayaking,video games,24,36.81386290416697,10.064182820362046
+579,football,pop,painting,swimming,Meditation,24,34.729348240087674,10.72633624147618
+580,basketball,metal,photography,swimming,Meditation,19,36.81386290416697,10.064182820362046
+581,football,rock,photography,walking,robotics,19,35.76769047104011,10.832138637973516
+582,soccer,Rap,graphic design,running,Tech,19,35.829993171511525,10.590361854200784
+583,cycling,jazz,writing,running,Meditation,20,36.815142235191104,10.061252340774432
+584,gym,pop,photography,swimming,Nerd,19,35.82129689193017,10.595614492571958
+585,football,classical,cooking,camping,Intellectual,19,34.74175355801243,10.75199454701542
+586,soccer,Rap,sculpture,swimming,Intellectual,24,35.76769047104011,10.832138637973516
+587,basketball,jazz,painting,running,Tech,19,36.81386290416697,10.064182820362046
+588,running,dance,cooking,camping,Tech,24,34.729348240087674,10.72633624147618
+589,soccer,dance,graphic design,camping,Meditation,22,35.82129689193017,10.595614492571958
+590,tennis,metal,painting,camping,programming,24,36.81114983397038,10.06831631942258
+591,football,Rap,painting,kayaking,programming,24,35.764433072675885,10.84075666747697
+592,soccer,metal,graphic design,camping,programming,21,36.81219070866288,10.066716000532438
+593,tennis,electronic,sculpture,swimming,Intellectual,24,34.729348240087674,10.72633624147618
+594,football,pop,graphic design,camping,robotics,21,35.764433072675885,10.84075666747697
+595,tennis,classical,drawing,walking,Nerd,22,36.815142235191104,10.061252340774432
+596,cycling,electronic,cooking,backpacking,Studies,23,35.80342505199336,10.613795956841525
+597,cycling,rock,film,swimming,Tech,22,36.785597579563394,10.185014300181754
+598,gym,dance,sculpture,walking,Nerd,22,34.79861606395665,10.823167852730396
+599,football,metal,cooking,walking,Meditation,21,36.815142235191104,10.061252340774432
+600,boxing,electronic,film,swimming,programming,21,35.829993171511525,10.590361854200784
+601,cycling,electronic,photography,road trips,robotics,22,36.81219070866288,10.066716000532438
+602,basketball,jazz,drawing,kayaking,Intellectual,20,35.829993171511525,10.590361854200784
+603,football,pop,sculpture,walking,robotics,22,34.729348240087674,10.72633624147618
+604,gym,electronic,sculpture,road trips,programming,24,36.81114983397038,10.06831631942258
+605,tennis,classical,drawing,walking,video games,21,34.729348240087674,10.72633624147618
+606,boxing,classical,film,kayaking,Tech,19,35.80342505199336,10.613795956841525
+607,soccer,Rap,drawing,running,Tech,23,34.74175355801243,10.75199454701542
+608,gym,classical,drawing,running,programming,23,36.81386290416697,10.064182820362046
+609,soccer,dance,cooking,backpacking,Tech,20,35.82129689193017,10.595614492571958
+610,gym,pop,painting,walking,video games,23,34.79861606395665,10.823167852730396
+611,boxing,Rap,writing,surfing,Intellectual,21,36.81114983397038,10.06831631942258
+612,running,classical,graphic design,surfing,robotics,24,35.829993171511525,10.590361854200784
+613,basketball,dance,drawing,kayaking,Nerd,24,36.785597579563394,10.185014300181754
+614,football,pop,photography,camping,video games,23,35.764433072675885,10.84075666747697
+615,tennis,classical,photography,camping,robotics,24,34.729348240087674,10.72633624147618
+616,boxing,pop,cooking,swimming,Intellectual,24,34.74175355801243,10.75199454701542
+617,gym,electronic,film,kayaking,video games,19,36.81219070866288,10.066716000532438
+618,boxing,pop,sculpture,swimming,Meditation,19,36.815142235191104,10.061252340774432
+619,basketball,metal,photography,kayaking,Intellectual,21,36.81219070866288,10.066716000532438
+620,tennis,pop,painting,walking,programming,22,34.729348240087674,10.72633624147618
+621,boxing,classical,sculpture,road trips,Meditation,22,35.7629810397376,10.83052541477322
+622,tennis,metal,painting,running,Nerd,19,36.81219070866288,10.066716000532438
+623,soccer,metal,painting,camping,Meditation,20,35.79886274215052,10.61743579240075
+624,cycling,electronic,painting,camping,Studies,19,36.785597579563394,10.185014300181754
+625,cycling,rock,graphic design,camping,programming,19,34.79861606395665,10.823167852730396
+626,soccer,electronic,writing,walking,Tech,20,34.74067797530926,10.69911718478783
+627,cycling,Rap,cooking,running,Tech,23,35.76469606850862,10.831029670078468
+628,boxing,classical,writing,walking,Tech,20,36.81219070866288,10.066716000532438
+629,basketball,dance,graphic design,camping,Studies,22,35.7629810397376,10.83052541477322
+630,gym,pop,film,surfing,robotics,19,35.82129689193017,10.595614492571958
+631,football,pop,film,running,Nerd,20,34.74175355801243,10.75199454701542
+632,basketball,classical,photography,backpacking,Intellectual,19,35.82129689193017,10.595614492571958
+633,soccer,pop,sculpture,backpacking,robotics,19,36.81219070866288,10.066716000532438
+634,boxing,rock,graphic design,road trips,Intellectual,23,35.80342505199336,10.613795956841525
+635,boxing,pop,film,kayaking,Nerd,21,36.785597579563394,10.185014300181754
+636,gym,metal,film,camping,Tech,20,36.84309787738344,10.197192562874283
+637,running,classical,painting,running,video games,23,35.76469606850862,10.831029670078468
+638,boxing,jazz,writing,kayaking,programming,23,35.82129689193017,10.595614492571958
+639,cycling,metal,cooking,surfing,Intellectual,19,35.76769047104011,10.832138637973516
+640,boxing,Rap,painting,camping,Tech,22,36.81676557993202,10.061027035178723
+641,soccer,electronic,photography,running,video games,19,36.84309787738344,10.197192562874283
+642,basketball,Rap,photography,surfing,Tech,21,34.729348240087674,10.72633624147618
+643,tennis,electronic,drawing,surfing,Tech,23,36.815142235191104,10.061252340774432
+644,cycling,classical,film,surfing,Studies,23,35.76769047104011,10.832138637973516
+645,running,electronic,painting,swimming,robotics,20,36.81676557993202,10.061027035178723
+646,basketball,metal,painting,walking,Nerd,23,35.7629810397376,10.83052541477322
+647,tennis,pop,painting,kayaking,Studies,24,35.829993171511525,10.590361854200784
+648,soccer,metal,graphic design,backpacking,Tech,21,36.815142235191104,10.061252340774432
+649,boxing,rock,graphic design,swimming,video games,22,36.84309787738344,10.197192562874283
+650,boxing,Rap,drawing,backpacking,Intellectual,22,36.84309787738344,10.197192562874283
+651,tennis,classical,writing,kayaking,Nerd,19,36.81114983397038,10.06831631942258
+652,tennis,metal,sculpture,backpacking,video games,24,36.81219070866288,10.066716000532438
+653,football,rock,cooking,running,Tech,23,34.74067797530926,10.69911718478783
+654,running,metal,cooking,road trips,Tech,24,35.82129689193017,10.595614492571958
+655,boxing,dance,film,camping,video games,20,34.79861606395665,10.823167852730396
+656,football,Rap,graphic design,camping,Tech,23,35.764433072675885,10.84075666747697
+657,basketball,dance,graphic design,kayaking,Meditation,19,36.815142235191104,10.061252340774432
+658,boxing,metal,photography,walking,Tech,19,36.81219070866288,10.066716000532438
+659,cycling,dance,film,walking,programming,21,36.785597579563394,10.185014300181754
+660,basketball,rock,drawing,road trips,video games,19,34.79861606395665,10.823167852730396
+661,running,metal,cooking,walking,video games,20,36.81219070866288,10.066716000532438
+662,football,metal,painting,road trips,Studies,22,36.815142235191104,10.061252340774432
+663,tennis,Rap,cooking,camping,Nerd,23,35.8001395689749,10.61630367082559
+664,running,pop,sculpture,backpacking,Studies,20,35.76769047104011,10.832138637973516
+665,football,electronic,sculpture,swimming,Meditation,22,36.785597579563394,10.185014300181754
+666,gym,pop,photography,swimming,Nerd,22,34.74175355801243,10.75199454701542
+667,cycling,classical,sculpture,camping,video games,23,34.74175355801243,10.75199454701542
+668,boxing,electronic,sculpture,road trips,programming,20,35.82129689193017,10.595614492571958
+669,football,dance,painting,swimming,Nerd,23,34.729348240087674,10.72633624147618
+670,gym,electronic,drawing,camping,Studies,24,36.81676557993202,10.061027035178723
+671,tennis,dance,writing,kayaking,Intellectual,24,34.74067797530926,10.69911718478783
+672,basketball,metal,writing,road trips,programming,21,35.76693318261071,10.84113693798821
+673,basketball,classical,film,camping,video games,22,35.82129689193017,10.595614492571958
+674,football,Rap,cooking,road trips,Studies,24,35.82129689193017,10.595614492571958
+675,soccer,classical,photography,swimming,programming,24,36.785597579563394,10.185014300181754
+676,tennis,rock,sculpture,walking,Meditation,21,36.815142235191104,10.061252340774432
+677,football,classical,cooking,road trips,Intellectual,21,35.82129689193017,10.595614492571958
+678,gym,metal,cooking,swimming,video games,23,35.7629810397376,10.83052541477322
+679,football,dance,film,surfing,Nerd,24,35.80342505199336,10.613795956841525
+680,football,Rap,graphic design,camping,Studies,22,35.829993171511525,10.590361854200784
+681,running,classical,drawing,road trips,Intellectual,24,36.81219070866288,10.066716000532438
+682,boxing,rock,writing,walking,Meditation,23,34.79861606395665,10.823167852730396
+683,cycling,Rap,writing,swimming,Meditation,24,36.81676557993202,10.061027035178723
+684,football,jazz,writing,swimming,programming,22,35.76769047104011,10.832138637973516
+685,tennis,pop,drawing,backpacking,robotics,20,36.81386290416697,10.064182820362046
+686,basketball,dance,film,backpacking,video games,20,35.764433072675885,10.84075666747697
+687,cycling,pop,photography,backpacking,programming,23,35.8001395689749,10.61630367082559
+688,soccer,pop,cooking,camping,programming,19,36.81676557993202,10.061027035178723
+689,cycling,dance,drawing,road trips,Studies,22,34.729348240087674,10.72633624147618
+690,football,Rap,cooking,camping,programming,20,36.81676557993202,10.061027035178723
+691,soccer,electronic,painting,running,Meditation,20,36.81219070866288,10.066716000532438
+692,cycling,rock,sculpture,surfing,robotics,24,35.7629810397376,10.83052541477322
+693,boxing,pop,drawing,backpacking,Studies,20,34.79861606395665,10.823167852730396
+694,boxing,Rap,writing,backpacking,video games,21,35.76469606850862,10.831029670078468
+695,running,Rap,drawing,swimming,Tech,19,36.81219070866288,10.066716000532438
+696,tennis,Rap,cooking,backpacking,Intellectual,19,34.74175355801243,10.75199454701542
+697,gym,dance,graphic design,surfing,Studies,24,36.81114983397038,10.06831631942258
+698,boxing,jazz,photography,kayaking,programming,19,35.764433072675885,10.84075666747697
+699,tennis,rock,photography,backpacking,Studies,21,36.81114983397038,10.06831631942258
+700,running,rock,writing,surfing,Studies,19,35.80342505199336,10.613795956841525
+701,tennis,rock,painting,road trips,robotics,19,35.76769047104011,10.832138637973516
+702,tennis,pop,sculpture,walking,Tech,22,34.74067797530926,10.69911718478783
+703,tennis,electronic,photography,backpacking,Nerd,21,35.7629810397376,10.83052541477322
+704,gym,electronic,sculpture,camping,Nerd,22,35.76769047104011,10.832138637973516
+705,cycling,metal,cooking,kayaking,programming,19,35.76769047104011,10.832138637973516
+706,soccer,dance,drawing,road trips,robotics,22,36.84309787738344,10.197192562874283
+707,running,dance,sculpture,road trips,Meditation,24,36.84309787738344,10.197192562874283
+708,boxing,metal,sculpture,walking,Studies,20,35.82129689193017,10.595614492571958
+709,running,electronic,film,surfing,robotics,20,35.7629810397376,10.83052541477322
+710,cycling,metal,film,road trips,Studies,22,34.729348240087674,10.72633624147618
+711,running,pop,drawing,swimming,robotics,20,36.815142235191104,10.061252340774432
+712,cycling,jazz,cooking,walking,Intellectual,20,36.81676557993202,10.061027035178723
+713,basketball,dance,photography,road trips,Meditation,19,35.79886274215052,10.61743579240075
+714,cycling,classical,cooking,running,programming,19,34.79861606395665,10.823167852730396
+715,football,pop,sculpture,running,video games,21,36.81386290416697,10.064182820362046
+716,boxing,rock,cooking,swimming,Intellectual,24,35.82129689193017,10.595614492571958
+717,tennis,Rap,sculpture,running,Tech,23,36.815142235191104,10.061252340774432
+718,tennis,metal,painting,walking,robotics,20,36.81114983397038,10.06831631942258
+719,cycling,dance,film,road trips,Tech,20,36.815142235191104,10.061252340774432
+720,soccer,pop,photography,swimming,video games,19,35.829993171511525,10.590361854200784
+721,soccer,electronic,sculpture,kayaking,Meditation,19,35.764433072675885,10.84075666747697
+722,gym,dance,sculpture,swimming,Meditation,20,36.84309787738344,10.197192562874283
+723,boxing,electronic,drawing,walking,Nerd,24,36.785597579563394,10.185014300181754
+724,running,metal,sculpture,swimming,Meditation,20,34.729348240087674,10.72633624147618
+725,running,pop,sculpture,kayaking,Nerd,23,35.76769047104011,10.832138637973516
+726,basketball,metal,sculpture,road trips,Studies,20,35.79886274215052,10.61743579240075
+727,basketball,electronic,graphic design,road trips,programming,22,35.764433072675885,10.84075666747697
+728,soccer,electronic,cooking,backpacking,Tech,21,35.82129689193017,10.595614492571958
+729,soccer,electronic,painting,camping,video games,19,35.7629810397376,10.83052541477322
+730,soccer,metal,film,walking,Intellectual,21,35.76469606850862,10.831029670078468
+731,basketball,pop,sculpture,surfing,video games,19,35.79886274215052,10.61743579240075
+732,boxing,dance,painting,kayaking,robotics,24,35.76769047104011,10.832138637973516
+733,tennis,electronic,painting,surfing,Studies,21,35.829993171511525,10.590361854200784
+734,boxing,jazz,sculpture,camping,Meditation,24,34.74175355801243,10.75199454701542
+735,tennis,metal,graphic design,backpacking,programming,22,35.76769047104011,10.832138637973516
+736,football,jazz,cooking,kayaking,programming,20,35.80342505199336,10.613795956841525
+737,running,pop,cooking,backpacking,programming,21,35.82129689193017,10.595614492571958
+738,boxing,classical,cooking,backpacking,Studies,20,36.815142235191104,10.061252340774432
+739,boxing,Rap,painting,running,programming,22,35.8001395689749,10.61630367082559
+740,gym,rock,drawing,surfing,Meditation,20,36.81114983397038,10.06831631942258
+741,gym,dance,painting,backpacking,Intellectual,19,35.764433072675885,10.84075666747697
+742,cycling,electronic,film,kayaking,video games,22,34.74175355801243,10.75199454701542
+743,boxing,electronic,photography,swimming,Studies,20,35.76769047104011,10.832138637973516
+744,gym,metal,graphic design,backpacking,Studies,22,35.76469606850862,10.831029670078468
+745,running,jazz,film,road trips,Nerd,23,35.8001395689749,10.61630367082559
+746,soccer,classical,sculpture,walking,Studies,22,34.729348240087674,10.72633624147618
+747,basketball,jazz,graphic design,swimming,video games,23,35.76469606850862,10.831029670078468
+748,football,dance,graphic design,walking,programming,24,35.76693318261071,10.84113693798821
+749,football,dance,cooking,camping,robotics,21,35.7629810397376,10.83052541477322
+750,tennis,rock,cooking,road trips,Tech,20,35.80342505199336,10.613795956841525
+751,basketball,pop,writing,kayaking,Meditation,22,36.81114983397038,10.06831631942258
+752,cycling,classical,photography,running,Tech,19,34.74067797530926,10.69911718478783
+753,soccer,jazz,writing,swimming,Meditation,21,36.84309787738344,10.197192562874283
+754,running,metal,writing,surfing,Meditation,20,35.764433072675885,10.84075666747697
+755,cycling,classical,writing,camping,Nerd,21,35.80342505199336,10.613795956841525
+756,gym,metal,film,swimming,Studies,23,35.829993171511525,10.590361854200784
+757,gym,Rap,film,kayaking,Nerd,23,34.74067797530926,10.69911718478783
+758,tennis,rock,writing,camping,Intellectual,22,34.729348240087674,10.72633624147618
+759,boxing,dance,graphic design,running,Nerd,21,35.76469606850862,10.831029670078468
+760,gym,rock,drawing,swimming,Tech,23,36.81676557993202,10.061027035178723
+761,soccer,classical,drawing,surfing,Nerd,23,35.829993171511525,10.590361854200784
+762,running,Rap,painting,camping,Tech,20,35.829993171511525,10.590361854200784
+763,cycling,rock,photography,walking,Intellectual,20,34.79861606395665,10.823167852730396
+764,basketball,Rap,drawing,swimming,Nerd,20,34.729348240087674,10.72633624147618
+765,running,jazz,cooking,camping,Intellectual,21,34.729348240087674,10.72633624147618
+766,boxing,pop,film,swimming,robotics,22,36.81386290416697,10.064182820362046
+767,tennis,Rap,cooking,swimming,programming,22,35.79886274215052,10.61743579240075
+768,tennis,metal,graphic design,road trips,Tech,21,35.76693318261071,10.84113693798821
+769,soccer,classical,writing,road trips,Tech,23,35.7629810397376,10.83052541477322
+770,cycling,pop,cooking,backpacking,Studies,23,35.829993171511525,10.590361854200784
+771,cycling,Rap,cooking,swimming,Intellectual,22,34.79861606395665,10.823167852730396
+772,gym,metal,cooking,swimming,Nerd,23,36.815142235191104,10.061252340774432
+773,basketball,metal,photography,camping,Nerd,20,34.79861606395665,10.823167852730396
+774,gym,pop,cooking,running,Studies,23,35.764433072675885,10.84075666747697
+775,soccer,jazz,cooking,running,Studies,19,36.81386290416697,10.064182820362046
+776,gym,rock,sculpture,camping,programming,23,35.82129689193017,10.595614492571958
+777,tennis,classical,painting,backpacking,Tech,20,36.81676557993202,10.061027035178723
+778,running,pop,cooking,road trips,Nerd,19,36.84309787738344,10.197192562874283
+779,tennis,pop,painting,surfing,video games,23,35.76469606850862,10.831029670078468
+780,cycling,jazz,drawing,kayaking,Tech,20,34.729348240087674,10.72633624147618
+781,running,Rap,drawing,road trips,robotics,21,36.815142235191104,10.061252340774432
+782,boxing,Rap,photography,swimming,Meditation,19,36.84309787738344,10.197192562874283
+783,basketball,electronic,photography,backpacking,programming,23,36.785597579563394,10.185014300181754
+784,football,metal,photography,backpacking,programming,24,34.729348240087674,10.72633624147618
+785,football,dance,photography,backpacking,Studies,22,36.81386290416697,10.064182820362046
+786,tennis,classical,writing,backpacking,Studies,24,34.729348240087674,10.72633624147618
+787,soccer,metal,cooking,walking,Intellectual,21,34.74067797530926,10.69911718478783
+788,cycling,Rap,cooking,road trips,Studies,19,35.76769047104011,10.832138637973516
+789,tennis,rock,drawing,road trips,robotics,24,35.829993171511525,10.590361854200784
+790,running,classical,drawing,running,Nerd,19,35.76693318261071,10.84113693798821
+791,football,pop,cooking,swimming,Meditation,22,36.785597579563394,10.185014300181754
+792,football,Rap,drawing,walking,Tech,20,35.764433072675885,10.84075666747697
+793,boxing,dance,film,road trips,Tech,24,35.76693318261071,10.84113693798821
+794,gym,pop,cooking,camping,Nerd,24,35.829993171511525,10.590361854200784
+795,soccer,metal,drawing,backpacking,Intellectual,22,36.84309787738344,10.197192562874283
+796,soccer,classical,sculpture,surfing,programming,20,34.74067797530926,10.69911718478783
+797,cycling,rock,writing,surfing,Studies,20,35.79886274215052,10.61743579240075
+798,boxing,jazz,cooking,surfing,Tech,21,36.81219070866288,10.066716000532438
+799,basketball,electronic,photography,road trips,programming,21,36.785597579563394,10.185014300181754
+800,soccer,pop,cooking,swimming,Nerd,24,36.815142235191104,10.061252340774432
+801,cycling,classical,drawing,swimming,Studies,21,36.84309787738344,10.197192562874283
+802,football,dance,cooking,camping,Intellectual,23,35.76469606850862,10.831029670078468
+803,football,Rap,photography,backpacking,video games,19,34.729348240087674,10.72633624147618
+804,soccer,electronic,painting,kayaking,video games,20,35.764433072675885,10.84075666747697
+805,tennis,rock,cooking,running,Meditation,23,34.74175355801243,10.75199454701542
+806,football,dance,writing,camping,Nerd,24,35.82129689193017,10.595614492571958
+807,boxing,classical,painting,backpacking,Meditation,23,35.8001395689749,10.61630367082559
+808,boxing,jazz,cooking,running,Intellectual,21,35.79886274215052,10.61743579240075
+809,running,Rap,sculpture,walking,Meditation,19,36.81386290416697,10.064182820362046
+810,basketball,classical,photography,backpacking,programming,22,36.815142235191104,10.061252340774432
+811,basketball,dance,writing,backpacking,Nerd,23,34.79861606395665,10.823167852730396
+812,football,Rap,painting,backpacking,Intellectual,23,35.76693318261071,10.84113693798821
+813,football,pop,graphic design,walking,programming,23,35.82129689193017,10.595614492571958
+814,tennis,rock,painting,road trips,video games,20,35.76469606850862,10.831029670078468
+815,cycling,dance,painting,walking,video games,20,35.764433072675885,10.84075666747697
+816,tennis,rock,drawing,kayaking,robotics,19,34.74175355801243,10.75199454701542
+817,boxing,pop,sculpture,running,Nerd,19,36.81114983397038,10.06831631942258
+818,boxing,electronic,graphic design,road trips,Meditation,21,35.82129689193017,10.595614492571958
+819,soccer,electronic,film,camping,video games,19,35.8001395689749,10.61630367082559
+820,boxing,pop,writing,kayaking,video games,23,35.76769047104011,10.832138637973516
+821,running,classical,painting,swimming,Intellectual,23,35.79886274215052,10.61743579240075
+822,tennis,pop,painting,road trips,Intellectual,23,34.74067797530926,10.69911718478783
+823,football,dance,drawing,backpacking,Intellectual,19,35.76469606850862,10.831029670078468
+824,gym,Rap,cooking,camping,Tech,20,36.81386290416697,10.064182820362046
+825,gym,Rap,photography,camping,Studies,22,35.76693318261071,10.84113693798821
+826,cycling,jazz,photography,surfing,programming,21,35.76769047104011,10.832138637973516
+827,gym,electronic,drawing,walking,programming,19,34.74067797530926,10.69911718478783
+828,gym,metal,cooking,backpacking,video games,24,34.729348240087674,10.72633624147618
+829,running,dance,drawing,walking,Meditation,22,36.81386290416697,10.064182820362046
+830,cycling,classical,cooking,running,Nerd,24,36.81114983397038,10.06831631942258
+831,gym,pop,drawing,running,Intellectual,20,36.815142235191104,10.061252340774432
+832,boxing,pop,painting,kayaking,Meditation,22,35.82129689193017,10.595614492571958
+833,football,Rap,sculpture,road trips,Tech,19,36.81386290416697,10.064182820362046
+834,gym,classical,drawing,backpacking,programming,19,35.829993171511525,10.590361854200784
+835,boxing,Rap,graphic design,road trips,programming,21,35.7629810397376,10.83052541477322
+836,basketball,dance,painting,walking,Studies,22,36.81219070866288,10.066716000532438
+837,basketball,dance,cooking,running,video games,19,34.79861606395665,10.823167852730396
+838,running,electronic,graphic design,surfing,robotics,19,34.79861606395665,10.823167852730396
+839,cycling,rock,photography,running,programming,19,35.8001395689749,10.61630367082559
+840,soccer,electronic,film,walking,Studies,20,36.815142235191104,10.061252340774432
+841,running,electronic,photography,walking,Meditation,24,35.79886274215052,10.61743579240075
+842,running,dance,film,road trips,video games,23,35.7629810397376,10.83052541477322
+843,boxing,metal,cooking,backpacking,Studies,20,35.7629810397376,10.83052541477322
+844,boxing,Rap,painting,swimming,Tech,23,35.829993171511525,10.590361854200784
+845,gym,pop,cooking,backpacking,video games,20,35.76469606850862,10.831029670078468
+846,cycling,metal,film,camping,programming,24,35.76769047104011,10.832138637973516
+847,gym,Rap,painting,backpacking,Intellectual,22,36.84309787738344,10.197192562874283
+848,basketball,electronic,photography,surfing,Tech,19,35.76693318261071,10.84113693798821
+849,tennis,classical,film,backpacking,Nerd,20,36.84309787738344,10.197192562874283
+850,running,pop,graphic design,road trips,Intellectual,23,36.84309787738344,10.197192562874283
+851,running,classical,writing,swimming,video games,21,35.7629810397376,10.83052541477322
+852,tennis,dance,drawing,running,programming,20,34.74175355801243,10.75199454701542
+853,gym,jazz,writing,swimming,Tech,24,36.815142235191104,10.061252340774432
+854,tennis,rock,cooking,surfing,Nerd,20,36.81386290416697,10.064182820362046
+855,boxing,electronic,writing,walking,Intellectual,23,34.79861606395665,10.823167852730396
+856,basketball,metal,painting,kayaking,Meditation,20,36.81386290416697,10.064182820362046
+857,tennis,electronic,drawing,camping,programming,19,35.79886274215052,10.61743579240075
+858,soccer,Rap,drawing,walking,robotics,23,35.76469606850862,10.831029670078468
+859,football,classical,graphic design,swimming,Studies,22,34.79861606395665,10.823167852730396
+860,football,pop,writing,camping,robotics,19,35.764433072675885,10.84075666747697
+861,boxing,pop,film,backpacking,Intellectual,23,36.815142235191104,10.061252340774432
+862,gym,electronic,cooking,running,Nerd,19,36.81386290416697,10.064182820362046
+863,cycling,classical,painting,road trips,Nerd,21,35.829993171511525,10.590361854200784
+864,boxing,dance,sculpture,road trips,Studies,22,34.729348240087674,10.72633624147618
+865,cycling,electronic,sculpture,camping,Studies,20,36.785597579563394,10.185014300181754
+866,cycling,metal,sculpture,running,video games,21,34.79861606395665,10.823167852730396
+867,football,Rap,sculpture,road trips,Tech,23,36.84309787738344,10.197192562874283
+868,gym,metal,writing,surfing,robotics,23,35.79886274215052,10.61743579240075
+869,running,jazz,sculpture,camping,robotics,22,35.76769047104011,10.832138637973516
+870,gym,metal,photography,walking,programming,22,34.74067797530926,10.69911718478783
+871,tennis,jazz,painting,camping,robotics,21,35.764433072675885,10.84075666747697
+872,gym,jazz,graphic design,camping,Nerd,24,34.74067797530926,10.69911718478783
+873,football,jazz,cooking,running,robotics,21,35.82129689193017,10.595614492571958
+874,gym,rock,photography,swimming,Nerd,22,34.79861606395665,10.823167852730396
+875,football,dance,drawing,road trips,Intellectual,24,35.80342505199336,10.613795956841525
+876,tennis,metal,photography,surfing,Studies,24,36.81676557993202,10.061027035178723
+877,boxing,jazz,photography,walking,programming,23,36.84309787738344,10.197192562874283
+878,gym,electronic,painting,running,robotics,19,35.76769047104011,10.832138637973516
+879,tennis,jazz,film,camping,programming,23,36.81386290416697,10.064182820362046
+880,boxing,metal,drawing,running,Meditation,21,35.80342505199336,10.613795956841525
+881,football,classical,graphic design,surfing,Nerd,24,35.80342505199336,10.613795956841525
+882,tennis,Rap,graphic design,surfing,video games,23,34.729348240087674,10.72633624147618
+883,gym,electronic,graphic design,road trips,Intellectual,19,36.81114983397038,10.06831631942258
+884,running,jazz,film,swimming,robotics,20,35.80342505199336,10.613795956841525
+885,gym,electronic,drawing,camping,Studies,21,35.80342505199336,10.613795956841525
+886,soccer,classical,sculpture,camping,video games,20,36.81676557993202,10.061027035178723
+887,soccer,jazz,writing,walking,programming,22,36.81114983397038,10.06831631942258
+888,running,rock,film,walking,Tech,22,35.764433072675885,10.84075666747697
+889,football,metal,painting,camping,Tech,21,34.729348240087674,10.72633624147618
+890,running,jazz,photography,swimming,programming,22,36.785597579563394,10.185014300181754
+891,soccer,jazz,drawing,swimming,Meditation,22,36.785597579563394,10.185014300181754
+892,boxing,Rap,sculpture,road trips,Intellectual,19,36.81114983397038,10.06831631942258
+893,football,rock,sculpture,swimming,Studies,24,35.80342505199336,10.613795956841525
+894,football,electronic,film,surfing,Tech,19,35.79886274215052,10.61743579240075
+895,tennis,pop,sculpture,camping,programming,24,34.729348240087674,10.72633624147618
+896,running,rock,painting,walking,Studies,21,35.829993171511525,10.590361854200784
+897,basketball,rock,graphic design,walking,Intellectual,20,35.76469606850862,10.831029670078468
+898,cycling,dance,writing,surfing,programming,24,36.81219070866288,10.066716000532438
+899,basketball,dance,photography,road trips,Studies,24,36.815142235191104,10.061252340774432
+900,basketball,electronic,cooking,surfing,programming,24,36.81386290416697,10.064182820362046
+901,tennis,pop,sculpture,backpacking,Studies,20,34.74067797530926,10.69911718478783
+902,gym,metal,painting,backpacking,programming,23,35.829993171511525,10.590361854200784
+903,running,electronic,writing,surfing,robotics,22,36.81114983397038,10.06831631942258
+904,soccer,classical,cooking,running,Nerd,19,35.76469606850862,10.831029670078468
+905,football,dance,photography,road trips,Nerd,21,35.80342505199336,10.613795956841525
+906,cycling,pop,painting,surfing,Studies,19,35.76769047104011,10.832138637973516
+907,football,classical,sculpture,road trips,video games,23,35.8001395689749,10.61630367082559
+908,soccer,rock,film,surfing,Intellectual,20,35.79886274215052,10.61743579240075
+909,boxing,jazz,writing,camping,Tech,19,35.7629810397376,10.83052541477322
+910,gym,metal,drawing,road trips,Tech,20,35.76693318261071,10.84113693798821
+911,cycling,Rap,writing,backpacking,Studies,23,34.74175355801243,10.75199454701542
+912,gym,pop,graphic design,swimming,video games,23,35.764433072675885,10.84075666747697
+913,boxing,Rap,drawing,backpacking,Nerd,21,36.81219070866288,10.066716000532438
+914,football,Rap,sculpture,walking,Tech,22,35.80342505199336,10.613795956841525
+915,cycling,jazz,sculpture,kayaking,video games,22,35.82129689193017,10.595614492571958
+916,football,jazz,painting,kayaking,robotics,20,35.76769047104011,10.832138637973516
+917,football,electronic,writing,walking,video games,20,35.76693318261071,10.84113693798821
+918,tennis,jazz,cooking,camping,video games,24,35.82129689193017,10.595614492571958
+919,basketball,classical,cooking,swimming,robotics,19,36.815142235191104,10.061252340774432
+920,gym,jazz,painting,running,robotics,22,35.76469606850862,10.831029670078468
+921,boxing,Rap,photography,road trips,Meditation,24,35.76469606850862,10.831029670078468
+922,football,classical,drawing,walking,Nerd,23,36.81386290416697,10.064182820362046
+923,gym,classical,photography,swimming,Intellectual,23,34.74175355801243,10.75199454701542
+924,tennis,metal,sculpture,camping,Meditation,20,35.82129689193017,10.595614492571958
+925,gym,jazz,sculpture,swimming,Nerd,22,35.82129689193017,10.595614492571958
+926,football,metal,writing,kayaking,Meditation,22,36.81219070866288,10.066716000532438
+927,cycling,electronic,drawing,road trips,programming,21,34.74067797530926,10.69911718478783
+928,cycling,jazz,film,walking,Intellectual,21,35.79886274215052,10.61743579240075
+929,tennis,jazz,drawing,surfing,video games,20,35.76693318261071,10.84113693798821
+930,running,electronic,photography,surfing,Nerd,21,36.81114983397038,10.06831631942258
+931,cycling,Rap,photography,surfing,Studies,23,36.81676557993202,10.061027035178723
+932,gym,classical,drawing,running,programming,24,35.82129689193017,10.595614492571958
+933,soccer,jazz,sculpture,surfing,Studies,22,36.84309787738344,10.197192562874283
+934,boxing,jazz,sculpture,road trips,video games,21,36.785597579563394,10.185014300181754
+935,gym,electronic,film,walking,Meditation,21,35.764433072675885,10.84075666747697
+936,basketball,metal,painting,camping,Intellectual,20,34.79861606395665,10.823167852730396
+937,tennis,jazz,drawing,kayaking,programming,24,35.76469606850862,10.831029670078468
+938,cycling,dance,drawing,backpacking,Studies,24,34.79861606395665,10.823167852730396
+939,football,metal,drawing,running,programming,19,34.729348240087674,10.72633624147618
+940,football,Rap,film,running,Nerd,21,35.8001395689749,10.61630367082559
+941,football,Rap,drawing,kayaking,video games,23,34.74175355801243,10.75199454701542
+942,running,Rap,writing,camping,Studies,20,36.81386290416697,10.064182820362046
+943,boxing,rock,writing,surfing,Nerd,24,36.81386290416697,10.064182820362046
+944,football,jazz,cooking,surfing,Nerd,24,34.74175355801243,10.75199454701542
+945,cycling,Rap,film,swimming,programming,24,36.815142235191104,10.061252340774432
+946,soccer,jazz,cooking,backpacking,video games,20,36.81114983397038,10.06831631942258
+947,tennis,jazz,writing,camping,Nerd,24,34.79861606395665,10.823167852730396
+948,football,classical,sculpture,kayaking,Tech,24,36.84309787738344,10.197192562874283
+949,tennis,electronic,painting,surfing,Meditation,22,36.81114983397038,10.06831631942258
+950,football,rock,photography,surfing,video games,24,35.79886274215052,10.61743579240075
+951,cycling,dance,painting,backpacking,Intellectual,24,36.81386290416697,10.064182820362046
+952,running,jazz,painting,walking,Studies,22,35.82129689193017,10.595614492571958
+953,tennis,electronic,cooking,road trips,Studies,20,35.76693318261071,10.84113693798821
+954,running,metal,drawing,walking,Meditation,20,35.8001395689749,10.61630367082559
+955,gym,rock,cooking,surfing,programming,20,34.74067797530926,10.69911718478783
+956,soccer,electronic,writing,road trips,video games,24,34.729348240087674,10.72633624147618
+957,soccer,electronic,film,walking,Studies,19,35.76769047104011,10.832138637973516
+958,cycling,dance,film,camping,video games,23,36.81114983397038,10.06831631942258
+959,basketball,rock,photography,road trips,Nerd,22,36.81676557993202,10.061027035178723
+960,football,jazz,sculpture,backpacking,video games,20,36.785597579563394,10.185014300181754
+961,boxing,pop,drawing,kayaking,Nerd,19,35.7629810397376,10.83052541477322
+962,boxing,metal,graphic design,walking,Studies,21,34.74175355801243,10.75199454701542
+963,football,metal,photography,walking,Meditation,24,35.764433072675885,10.84075666747697
+964,football,jazz,photography,surfing,video games,19,34.79861606395665,10.823167852730396
+965,running,rock,writing,camping,Nerd,19,35.80342505199336,10.613795956841525
+966,running,dance,painting,road trips,Intellectual,24,35.7629810397376,10.83052541477322
+967,cycling,pop,cooking,kayaking,Tech,23,36.81219070866288,10.066716000532438
+968,tennis,rock,drawing,surfing,video games,19,34.729348240087674,10.72633624147618
+969,running,rock,film,running,Meditation,23,35.80342505199336,10.613795956841525
+970,cycling,electronic,sculpture,backpacking,Nerd,21,35.82129689193017,10.595614492571958
+971,gym,dance,photography,surfing,robotics,19,36.81386290416697,10.064182820362046
+972,soccer,electronic,graphic design,road trips,robotics,21,34.79861606395665,10.823167852730396
+973,football,dance,sculpture,road trips,video games,21,35.76693318261071,10.84113693798821
+974,tennis,rock,cooking,surfing,Tech,24,36.81219070866288,10.066716000532438
+975,soccer,electronic,painting,surfing,Nerd,19,35.76769047104011,10.832138637973516
+976,running,pop,drawing,running,Tech,22,36.785597579563394,10.185014300181754
+977,cycling,metal,painting,surfing,programming,19,35.7629810397376,10.83052541477322
+978,tennis,electronic,sculpture,walking,video games,21,35.79886274215052,10.61743579240075
+979,soccer,electronic,writing,road trips,Intellectual,24,36.81386290416697,10.064182820362046
+980,boxing,metal,film,surfing,Meditation,23,34.74175355801243,10.75199454701542
+981,football,metal,writing,camping,Intellectual,19,35.829993171511525,10.590361854200784
+982,cycling,classical,drawing,swimming,programming,20,35.76769047104011,10.832138637973516
+983,football,metal,writing,running,programming,20,34.74175355801243,10.75199454701542
+984,cycling,dance,sculpture,surfing,Nerd,21,34.79861606395665,10.823167852730396
+985,cycling,pop,drawing,kayaking,Nerd,22,36.815142235191104,10.061252340774432
+986,cycling,Rap,painting,surfing,Tech,20,35.829993171511525,10.590361854200784
+987,gym,dance,sculpture,running,programming,19,34.79861606395665,10.823167852730396
+988,soccer,electronic,sculpture,walking,video games,21,36.785597579563394,10.185014300181754
+989,football,jazz,sculpture,running,robotics,24,34.74067797530926,10.69911718478783
+990,boxing,metal,writing,walking,Tech,19,36.81219070866288,10.066716000532438
+991,soccer,pop,cooking,camping,Meditation,22,34.74067797530926,10.69911718478783
+992,cycling,dance,graphic design,road trips,video games,23,35.76693318261071,10.84113693798821
+993,football,metal,writing,surfing,programming,23,36.785597579563394,10.185014300181754
+994,tennis,metal,cooking,swimming,video games,21,36.81386290416697,10.064182820362046
+995,soccer,rock,photography,road trips,Meditation,21,35.764433072675885,10.84075666747697
+996,gym,classical,writing,swimming,Tech,20,34.74175355801243,10.75199454701542
+997,cycling,dance,film,swimming,programming,19,35.76769047104011,10.832138637973516
+998,gym,electronic,cooking,walking,video games,23,35.79886274215052,10.61743579240075
+999,gym,metal,drawing,walking,robotics,20,35.829993171511525,10.590361854200784
+1000,running,rock,cooking,swimming,programming,24,35.7629810397376,10.83052541477322
